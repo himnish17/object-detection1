@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    border-radius: 20px;
+    width: 200px;
+    margin: 0px;
+    color: black;
+    font-size: 25px;
+    
+}
+.object{
+    color: black;
+    font-size: 45px;
+}
